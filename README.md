@@ -1,1 +1,2 @@
-# Customer-Segmentation
+# Customer-Segmentation-Analysis
+Project Overview
