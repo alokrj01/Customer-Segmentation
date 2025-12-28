@@ -5,7 +5,7 @@ import plotly.graph_objects as go
 import pandas as pd
 
 # --- CONFIGURATION ---
-API_URL = "http://127.0.0.1:8000/predict_segment"
+API_URL = "https://customer-api-7pqx.onrender.com/predict_segment"
 st.set_page_config(page_title="Customer Segmentation Analysis", layout="wide")
 
 # --- HEADER ---
