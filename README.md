@@ -43,5 +43,10 @@ Based on the clustering results, several insights were derived, such as:
 1. Identification of high-value customer segments that contribute significantly to revenue.
 2. Recognition of potential segments for targeted marketing campaigns.
 3. Understanding of customer preferences and behaviors to improve product offerings.
-## Conclusion
+
+### Deployement
+1. for backend: render
+2. for frontend: streamlit
+
+### Conclusion
 The Customer Segmentation Analysis project provides a comprehensive approach to understanding and categorizing customers. By leveraging clustering techniques and visualizations, businesses can gain valuable insights into their customer base and make informed decisions to enhance their marketing strategies and overall performance.
